@@ -48,6 +48,7 @@ const wordIndex = arr5.indexOf(words);
 if (words){console.log({words})}
 else {console.log("the search was not found")}
 
+// Question 5
 // Write a JS script to sort the following string
 let word = "sevink";
 let newWord = function(word){
@@ -55,3 +56,5 @@ let newWord = function(word){
 
 };
 console.log(newWord(word))
+// sorting using forEach
+
