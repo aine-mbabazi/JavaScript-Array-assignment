@@ -45,7 +45,7 @@ console.log({duplicates});
 let arr5 = ["the","way","x",4]
 const words = "way";
 const wordIndex = arr5.indexOf(words);
-if (words){console.log({words})}
+if (words==arr5[1]g){console.log({words})}
 else {console.log("the search was not found")}
 
 // Question 5
